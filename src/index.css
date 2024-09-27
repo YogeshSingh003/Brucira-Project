@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/* @import url("https://db.onlinewebfonts.com/c/543092172c7d9a62dc51fa0fc510b6cf?family=Everett+Regular"); */
+
+@font-face {
+    font-family: 'Everett';
+    src: url('../src/Asset/fonts/TWKEverett-Medium.otf') format('opentype');    
+}
+@font-face {
+    font-family: 'EverettBold';
+    src: url('../src/Asset/fonts/TWKEverett-Bold.otf') format('opentype');    
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
