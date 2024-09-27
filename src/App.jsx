@@ -11,7 +11,7 @@ import WeAreGlobal from "./Components/WeAreGlobal";
 
 function App() {
   return (
-    <div className="mx-0 lg:mx-24 ">
+    <div className="mx-0 lg:mx-24 overflow-hidden">
       <Navbar />
       <Body />
       <LogoSlider />
