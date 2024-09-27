@@ -1,5 +1,4 @@
 import Marquee from "react-fast-marquee";
-
 import DarwinBox from "../Asset/images/DarwinBox.png";
 import Wipro from "../Asset/images/Wipro.png";
 import Sequoia from "../Asset/images/Sequoia.png";
@@ -14,6 +13,7 @@ import Vymo from "../Asset/images/Vymo.png";
 import Taneira from "../Asset/images/Taneira.png";
 
 const LogoSlider = () => {
+  // Define logo data
   const logos = [
     DarwinBox,
     Wipro,
@@ -30,9 +30,11 @@ const LogoSlider = () => {
   ];
 
   return (
-    <div className="my-32 -mx-24">
+    <div className="my-32 lg:-mx-24">
+      {/* Marquee to manage slider */}
       <Marquee>
         <div className="flex  ">
+          {/* Map funtion */}
           {logos.map((lg, i) => (
             <img
               key={i}
