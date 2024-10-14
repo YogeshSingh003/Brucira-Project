@@ -10,15 +10,15 @@ const Navbar = () => {
         </div>
         <div className="flex text-xs md:text-lg items-center md:items-start  gap-6 md:gap-12 font-semibold py-3">
           <div className="flex opacity-60 items-baseline">
-            <h2>SERVICES </h2>
+            <button>SERVICES </button>
             <img className="w-3 h-3 ml-2 -rotate-45" src={ARROW} />
           </div>
           <div className="flex opacity-40 items-baseline">
-            <h2>WORK</h2>
+            <button>WORK</button>
             <img className="w-3 h-3 ml-2 -rotate-45" src={ARROW} />
           </div>
           <div className="flex items-baseline ">
-            <h2>ABOUT</h2>
+            <button>ABOUT</button>
             {/* Make arrow color #EF001C */}
             <img className="w-3 h-3 ml-2 rotate-45 " src={ARROW} />
           </div>
