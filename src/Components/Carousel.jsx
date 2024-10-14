@@ -12,10 +12,7 @@ const Carousel = () => {
       name: "LISSA SMITH",
       company: "VYMO",
       designation: "DIRECTOR OF MARKETING AND COMMUNICATIONS",
-      testimony: `Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled`,
+      testimony: `Their innovative strategies and keen understanding of market trends have significantly enhanced our brand visibility and engagement. They consistently delivers high-quality work and inspires collaboration across departments. I wholeheartedly recommend them for their exceptional skills and dedication to driving results.`,
       image: Lissa,
     },
     {
@@ -23,10 +20,7 @@ const Carousel = () => {
       name: "EMILY SMITH",
       company: "ABC CORP",
       designation: "HEAD OF MARKETING AND OPERATIONS",
-      testimony: `Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled`,
+      testimony: `Their strategic insights and operational excellence have greatly contributed to our success. They consistently drives innovative marketing initiatives that boost engagement and efficiency across our teams. Their dedication and leadership make them a vital part of our organization. I highly recommend them for their outstanding contributions and results-oriented mindset.`,
       image: Marin,
     },
     {
@@ -34,10 +28,7 @@ const Carousel = () => {
       name: "VANSHIKA GAUR",
       company: "XYZ LTD",
       designation: "CHIEF EXECUTIVE OFFICER",
-      testimony: `Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled`,
+      testimony: `Their strategic vision and innovative approach have been instrumental in driving our marketing efforts forward. They excels at fostering collaboration and aligning our marketing initiatives with our overall business goals. Their results-oriented mindset and dedication to excellence have significantly enhanced our brand presence. I wholeheartedly endorse for their outstanding leadership and impact on our organization.`,
       image: Ayeesha,
     },
   ];
